@@ -60,7 +60,7 @@ Data Analysis: -
 
 The following were the missing num of data from the variable. 
 
-MINIMUM_PAYMENTS	313
+MINIMUM_PAYMENTS - 313
 
 The missing values were then imputed using KNN imputation method. 
 Note:- Mean, Median, KNN imputation methods were tested by picking random observation and then the best impute method(KNN) was devised.
