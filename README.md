@@ -104,7 +104,10 @@ Elbow method was visualized to extract the errors and the optimum number of clus
 Kmeans clustering was devised and the observations were classified into three clusters.
 
 1    3340
+
+
 2    2701
+
 0    1239
 
 Please refer the Project report.doc file for more info on deriving the characteristic features of the clusters.
